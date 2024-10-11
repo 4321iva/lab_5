@@ -1,0 +1,15 @@
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\6.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\6.AssemblyInfoInputs.cache
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\6.AssemblyInfo.cs
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\6.csproj.CoreCompileInputs.cache
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\6.sourcelink.json
+D:\visual studio\lab_5\6\6\bin\Debug\net8.0\6.exe
+D:\visual studio\lab_5\6\6\bin\Debug\net8.0\6.deps.json
+D:\visual studio\lab_5\6\6\bin\Debug\net8.0\6.runtimeconfig.json
+D:\visual studio\lab_5\6\6\bin\Debug\net8.0\6.dll
+D:\visual studio\lab_5\6\6\bin\Debug\net8.0\6.pdb
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\6.dll
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\refint\6.dll
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\6.pdb
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\6.genruntimeconfig.cache
+D:\visual studio\lab_5\6\6\obj\Debug\net8.0\ref\6.dll
