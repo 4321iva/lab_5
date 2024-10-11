@@ -1,0 +1,15 @@
+D:\visual studio\lab_5\2\2\bin\Debug\net8.0\2.exe
+D:\visual studio\lab_5\2\2\bin\Debug\net8.0\2.deps.json
+D:\visual studio\lab_5\2\2\bin\Debug\net8.0\2.runtimeconfig.json
+D:\visual studio\lab_5\2\2\bin\Debug\net8.0\2.dll
+D:\visual studio\lab_5\2\2\bin\Debug\net8.0\2.pdb
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\2.AssemblyInfoInputs.cache
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\2.AssemblyInfo.cs
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\2.csproj.CoreCompileInputs.cache
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\2.sourcelink.json
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\2.dll
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\refint\2.dll
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\2.pdb
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\2.genruntimeconfig.cache
+D:\visual studio\lab_5\2\2\obj\Debug\net8.0\ref\2.dll
